@@ -1,0 +1,6 @@
+---
+# tasks file for basic_check
+
+- name: basic task
+  debug:
+    msg: "Basic Task"
